@@ -1,2 +1,2 @@
 
-OOP's assignment Scala
+OOP's assignment 
